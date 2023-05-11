@@ -3,7 +3,7 @@ import "./header.css"
 function Header (){
     return  <header className="header">
 
-     <img src='/img/Header.png' alt='Org'/>
+     <img src='/img/Header.png' alt='header'/>
      </header>
      }
 
